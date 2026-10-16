@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.docx
+*.zip
+material/
+entrega/
+.vscode/
+.idea/
+Thumbs.db
